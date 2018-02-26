@@ -1,0 +1,95 @@
+.SB{
+  max-width:85%;
+  min-width:150px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#entireBody{
+  min-width:200px;
+  padding-top:50px;
+  background-color:black;
+  height:100%;
+}
+#WikiData{
+  word-wrap:break-word;
+  color:white;
+// margin-left:15px;
+ // margin-bottom:15px;
+  //margin-top:5px;
+  // width:100%;
+}
+#textArea{
+  background-color:white;
+  color:white;
+  font-style:Monospace;
+}
+.aPanelClass{
+  
+  
+margin:auto;
+ padding:5px 5px 5px 5px;
+  
+ 
+}
+#addPBContent{
+  color:black;
+}
+
+#addingPanel{
+  margin-right:auto;
+  margin-left:auto;
+ // margin-top:15px;
+ // margin-bottom:15px;
+//  width:45%;
+  height:500px;
+ // padding:15px;
+ // margin:5px 5px 5px 5px;
+  overflow:hidden;
+  
+}
+#addingPanel:hover{
+  overflow:auto;
+}
+.container-fluid{
+  margin:0px;
+  padding:0px;
+}
+.modify-pad{
+  padding:15px 5px 40px 5px;
+  //padding-top:100px;
+  //paddin:auto auto auto auto;
+}
+.opbox{
+  //opacity:0.8;
+  background-color:black;
+  border-color:black;
+
+}
+.footer{
+  position:fixed;
+  
+ // float:left;
+   right: 0;
+  bottom: 0;
+  left: 0;
+ // height:30px;
+ 
+     color:sand;
+  //color:;
+  text-align:center;
+  //background-color:dark;
+ 
+}
+.fsm{
+  background-color:black;
+  border-color:black;
+}
+//@media only screen and(max-device-width:1024px){
+  .footer{
+    position:fixed-bottom;
+  }
+  
+}
+
+
